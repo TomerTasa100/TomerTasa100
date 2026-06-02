@@ -1,4 +1,4 @@
-# Hi, I'm Tomer Tasa 👋
+# Hi, I'm Tomer Tasa 
 
 Software Engineering student at **Afeka College of Engineering, Tel Aviv** (expected 2028).
 I build full-stack apps and AI-powered tools — from multi-agent LLM systems to Telegram bots and automation.
