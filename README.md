@@ -1,32 +1,40 @@
-# Hi, I'm Tomer Tasa 
+# Hi, I'm Tomer Tasa
 
-Software Engineering student at **Afeka College of Engineering, Tel Aviv** (expected 2028).
-I build full-stack apps and AI-powered tools — from multi-agent LLM systems to Telegram bots and automation.
+Software engineering student at **Afeka College of Engineering** · focused on breaking into **cybersecurity**.
 
----
-
-### 🛠️ Tech I work with
-
-**Languages:** Python · JavaScript / TypeScript · Java · SQL
-**Backend:** FastAPI · Node.js · REST APIs · SQLite / MariaDB · Docker
-**Frontend:** React · Next.js · React Native (Expo) · Tailwind CSS
-**AI / LLM:** LangGraph · LangChain · RAG (ChromaDB) · OpenAI & Gemini APIs · multi-agent pipelines
+I build with Python, Linux, and networks — and ship real tools: bots, automation, RAG systems, and multi-agent architectures.
 
 ---
 
-### 🚀 Featured projects
+### Looking for
+Junior **cyber / security** roles in Israel (SOC / analyst tracks, security-minded engineering, internships).
+
+---
+
+### Tech I work with
+
+**Core:** Python · Linux · Computer Networks · Java · TypeScript / JavaScript · SQL  
+**Backend & tooling:** FastAPI · Docker · REST APIs · SQLite  
+**AI / agents:** LangChain · LangGraph · RAG (ChromaDB) · multi-agent systems  
+**Also:** Next.js · React / React Native · Playwright automation
+
+---
+
+### Featured projects
 
 | Project | What it is |
 |---|---|
-| [**NovaHub**](https://github.com/guyforsht/NovaHub) | Multi-agent LangGraph system supporting Nova festival survivors — a rights dashboard, community feed, and an emotionally-aware support chat. *(team project)* |
-| [**loz**](https://github.com/TomerTasa100/loz) | Weekly shift-organizer Telegram bot — Dockerized, SQLite-backed, with an LLM fallback parser for free-text submissions. |
-| [**OurRights**](https://github.com/TomerTasa100/OurRights) | RAG agent that answers questions about Israeli disability & hostility-victim rights, retrieving from official sources with ChromaDB. |
-
-More on my [repositories page →](https://github.com/TomerTasa100?tab=repositories)
+| **Private multi-agent system** | Large multi-agent project (private) — architecture, orchestration, and tooling. Details & walkthrough on request. |
+| [**NovaHub**](https://github.com/guyforsht/NovaHub) | Multi-agent LangGraph system for Nova festival survivors — rights dashboard, community feed, emotionally-aware support chat. *(team project)* |
+| [**OurRights**](https://github.com/TomerTasa100/OurRights) | RAG agent answering Israeli disability & hostility-victim rights questions from official sources (LangChain + ChromaDB). |
+| [**loz**](https://github.com/TomerTasa100/loz) | Weekly shift-organizer Telegram bot — Docker, SQLite, APScheduler, LLM fallback for free-text. |
+| [**Librariesafeka**](https://github.com/TomerTasa100/Librariesafeka) | Python automation (Tkinter + Playwright) that books Afeka study rooms on the college portal. |
+| [**Helper**](https://github.com/TomerTasa100/Helper) | Appointment-booking web app (Next.js + Supabase) — WIP. |
+| [**CollageManagementSystem**](https://github.com/TomerTasa100/CollageManagementSystem) | Console college management system in Java — OOP (inheritance, interfaces, custom exceptions). |
 
 ---
 
-### 📫 Get in touch
+### Get in touch
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomer%20Tasa-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomer-tasa/)
 [![Email](https://img.shields.io/badge/Email-tomertasa1511%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:tomertasa1511@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomer%20Tasa-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomer-tasa-623405220/)
